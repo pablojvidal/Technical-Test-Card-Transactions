@@ -51,7 +51,7 @@ A pipeline is a series of interconnected data processing and modeling steps desi
 5. Model Evaluation: After training, the model’s performance is evaluated using appropriate metrics (MSE in my case).
 
 
-Finally, concluding the project by giving marketing strategy based on what we learn from the data.(notebook number 3)
+Finally, concluding the project by giving marketing strategy based on what we learn from the data. (notebook number 3)
 
 NOTE:There are other steps within a pipeline to work on, such as hyperparameter adjustment, model deployment and monitoring that were not applied in this work.
 
