@@ -1,0 +1,13 @@
+pandas
+seaborn
+numpy
+matplotlib
+plotly
+sklearn
+kmodes
+lightgbm
+pmdarima
+joblib
+h5py
+dill
+zipfile
